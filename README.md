@@ -1,5 +1,5 @@
 # Customer Churn Analysis for Telecommunication Company
-This is a machine learning binary classification project for Telcos. In this project, We would be analysing Zanzibar telecommunication customer datasets with the aim of increasing profit / revenue margin by improving on their customer retention strategies. We will be using machine learning classification models to perform churn analysis on their customers. The CRISP-DM Framework would be the main guide to this project. 
+This is a machine learning binary classification project for Telcos. In this project, We will be analysing Zanzibar telecommunication customer datasets with the aim of increasing profit / revenue margin by improving on their customer retention strategies. We will be using machine learning classification models to perform churn analysis on their customers. The CRISP-DM Framework would be the main guide to this project. 
 
 
 ## Libraries to install 
