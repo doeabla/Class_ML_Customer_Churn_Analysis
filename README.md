@@ -61,3 +61,10 @@ Churn -- Whether the customer churned or not (Yes or No)
 ## Conclusion
 
 ## Authors
+| Name | GitHub link |
+| ---- | ---- |
+| Doe Edinam     |      |
+| Kofi Asare Bamfo | [fusersam](https://github.com/fusersam) |
+| Enoch Taylor-Nketiah | [EnyonamAgbenorhevi](https://github.com/EnyonamAgbenorhevi) |
+| Timothy  | [Herb-real](https://github.com/Herb-real) |
+
