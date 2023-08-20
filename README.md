@@ -63,6 +63,8 @@ The statistical analysis shows that several factors significantly impact custome
 
 On the contrary, ANOVA tests reveal that two continuous variables, monthly charges and tenure, lack a statistically significant effect on customer attrition. With p-values below 0.05, the null hypothesis can reasonably be accepted in this regard. 
 
+For modeling, models consistently identify true positives (TP) and true negatives (TN) while generating false positives (FP) and false negatives (FN), impacting overall accuracy for the unbalanced data. When data is balanced through techniques like SMOTE, models turn to prioritize the minority class ('Churn: Yes') for improved sensitivity, however model assessment requires metrics like accuracy, precision, recall, and F1-score on an independent validation set. Among models, the Random Forest Classifier excels in cross-validation accuracy for balanced data, with Gradient Boosting Classifier closely following. Model selection depends on priorities, considering SVC's true positive count or Gradient Boosting's balanced F1-score, requiring rigorous metric evaluation and problem-specific analysis
+
 ## Recommendations
 1. Tailored Strategies for Different Groups
 2. Prioritize Customer Satisfaction
