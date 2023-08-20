@@ -1,6 +1,5 @@
 # Customer Churn Analysis for Telecommunication Company
-This is a machine learning binary classification project for Telcos. In this project, We will be analysing Zanzibar telecommunication customer datasets with the aim of increasing profit / revenue margin by improving on their customer retention strategies. We will be using machine learning classification models to perform churn analysis on their customers. The CRISP-DM Framework would be the main guide to this project. 
-
+Welcome to a transformative machine learning endeavor focused on binary classification within the Telco industry. This project delves into the Zanzibar telecommunication customer datasets, with the primary goal of amplifying profitability and revenue margins through enhanced customer retention strategies. Our journey entails harnessing the power of machine learning classification models to conduct in-depth churn analysis among the customer base. Guiding us through this exploration is the revered CRISP-DM Framework, lending structure and insights to every stage of our endeavor.
 
 ## Libraries to install 
 We pip install and import libraries:
@@ -53,12 +52,26 @@ TotalCharges -- The total amount charged to the customer
 Churn -- Whether the customer churned or not (Yes or No)
 
 ## Hypothesis
+H0(null):
+The churning potential (likelihood of churn) among non-senior citizens is not influenced by factors such as Gender, internet service type, Payment method, Contract, monthly charges, tenure, and the presence of additional services like online security or tech support.
+
+H1(alternate):
+The churning potential (likelihood of churn) among non-senior citizens is influenced by factors such as Gender, internet service type, Payment method, Contract, monthly charges, tenure, and the presence of additional services like online security or tech support.
 
 ## Outcome
+The statistical analysis shows that several factors significantly impact customer churn in the telecom company. The Chi-Square tests on categorical variables—like gender, internet services, payment method, contract term, and additional services—confirm their substantial influence on churn potential, as indicated by their p-values. These factors should be addressed to enhance customer satisfaction and loyalty, although the p-values are higher than the conventional threshold of 0.05. This leads to the rejection of the null hypothesis in favor of the alternate one, underscoring their impact on churn.
+
+On the contrary, ANOVA tests reveal that two continuous variables, monthly charges and tenure, lack a statistically significant effect on customer attrition. With p-values below 0.05, the null hypothesis can reasonably be accepted in this regard. 
 
 ## Recommendations
-
+1. Tailored Strategies for Different Groups
+2. Prioritize Customer Satisfaction
+3. Keep Pricing Competitive
+4. Reward Loyalty for Long-Term Customers
+5. Stay Customer-Centric with Data
+   
 ## Conclusion
+Based on these results, it's crucial to introduce customized approaches for various segments, emphasize satisfaction, ensure competitive pricing, establish loyalty programs, provide personalized assistance for new customers, and adopt data-driven improvements that revolve around customer needs. These actions are essential to bolster customer loyalty and fine-tune the company's overall strategy.
 
 ## Authors
 | Name | GitHub link |
