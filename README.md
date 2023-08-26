@@ -86,4 +86,4 @@ Based on these results, it's crucial to introduce customized approaches for vari
 
 | Project |	Name |	Published Article |	Deployed App |
 | ---- | -----| ----- | ---- |
-| LP2	| ML_Customer Churn |	[Article LP2](https://www.linkedin.com/pulse/exploring-customer-churn-telecommunications-leveraging-doe) | [Power BI Deployment](https://app.powerbi.com/groups/me/reports/655df298-36e9-4537-953c-37e410844b55/ReportSection?experience=power-bi) |
+| LP2	| ML_Customer Churn |	[Churn Article ](https://www.linkedin.com/pulse/exploring-customer-churn-telecommunications-leveraging-doe) | [Power BI Deployment](https://app.powerbi.com/groups/me/reports/655df298-36e9-4537-953c-37e410844b55/ReportSection?experience=power-bi) |
